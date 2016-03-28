@@ -9,5 +9,3 @@
 
 var router = require("./router.js");
 var mainTmpl = require("html!../templates/main.html");
-
-console.log(mainTmpl);
